@@ -1,0 +1,214 @@
+2026-06-17 13:10:01,447 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-06-17 13:21:07,467 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-06-17 13:21:11,019 - Algorithm Manager - INFO - Finished a state.
+2026-06-17 13:22:30,395 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-06-17 13:23:22,893 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-06-17 13:28:18,581 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-06-17 13:29:03,433 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-06-17 13:31:19,121 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-06-17 13:31:20,314 - Algorithm Manager - INFO - Finished a state.
+2026-06-17 13:35:38,921 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-06-17 13:35:40,234 - Algorithm Manager - INFO - Finished a state.
+2026-06-17 13:38:39,526 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-06-17 13:38:40,999 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 10:32:30,800 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-06 11:07:05,329 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:07:20,511 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 11:10:06,224 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:10:09,014 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 11:11:04,734 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:11:28,874 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-06 11:12:39,657 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:12:41,473 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 11:14:05,627 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:14:07,459 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 11:17:32,242 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:17:34,488 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 11:18:22,784 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:18:24,373 - Algorithm Manager - ERROR - Error occured in pellet sizer: [WinError 1450] Nicht genügend Systemressourcen, um den angeforderten Dienst auszuführen.
+2026-08-06 11:18:44,635 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-06 11:20:11,071 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:20:13,133 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 11:22:22,444 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:22:24,393 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 11:26:40,088 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:26:42,018 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 11:27:38,962 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:27:40,098 - Algorithm Manager - ERROR - Error occured in pellet sizer: [WinError 1450] Nicht genügend Systemressourcen, um den angeforderten Dienst auszuführen.
+2026-08-06 11:27:40,750 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 11:28:02,359 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:28:42,979 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-06 11:30:01,421 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:30:03,093 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 11:30:41,017 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:30:42,580 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 11:31:26,217 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:31:27,737 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 11:31:51,801 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:31:53,575 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 11:48:00,838 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:48:08,729 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 11:59:33,536 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 11:59:40,037 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 12:18:46,685 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-06 12:20:32,039 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 12:20:39,277 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 12:22:40,497 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-06 12:23:19,550 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 12:23:24,753 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 12:28:08,461 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 12:28:17,985 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 12:29:09,659 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-06 12:33:32,432 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 12:33:39,523 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 16:43:16,609 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-06 16:43:18,556 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-06 16:47:34,624 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 16:47:36,498 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 16:50:01,980 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 16:50:03,043 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 16:52:24,686 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 16:52:26,558 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 16:53:18,584 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 16:53:53,491 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-06 16:55:31,765 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 16:55:33,306 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 16:56:17,703 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-06 16:56:49,065 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 16:56:50,606 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 16:57:31,158 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 16:57:32,762 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 16:58:00,474 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 16:58:02,013 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 17:01:41,424 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 17:01:43,031 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 17:04:19,011 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 17:04:20,962 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 17:06:02,931 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 17:06:04,610 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 17:08:17,097 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 17:08:18,943 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 17:09:44,416 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 17:09:46,041 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 17:11:54,769 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 17:11:56,373 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 17:13:59,714 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 17:14:01,507 - Algorithm Manager - INFO - Finished a state.
+2026-08-06 17:28:27,848 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-06 17:28:29,938 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 13:55:57,544 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-07 14:03:42,030 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:03:44,369 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:05:04,204 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:05:06,065 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:09:14,361 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:09:15,836 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:11:17,771 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:11:19,330 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:11:48,507 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:11:49,983 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:12:20,521 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:12:22,651 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:12:55,210 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:12:57,149 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:14:03,297 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:14:05,421 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:15:24,236 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:15:26,564 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:16:05,666 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:16:07,460 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:16:40,276 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:16:40,922 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:16:59,076 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:16:59,616 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:17:09,787 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:17:10,375 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:17:18,322 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:18:10,618 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-07 14:19:10,754 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:19:12,175 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:19:55,177 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:19:56,632 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:21:48,106 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:21:49,529 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:25:08,680 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:25:09,883 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:26:50,403 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:26:51,748 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:28:04,321 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:28:05,548 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:32:32,991 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:32:34,330 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:34:19,032 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:34:20,555 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:38:16,138 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:38:17,813 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:40:28,539 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:40:30,288 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:42:49,585 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:42:51,604 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:43:21,929 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-07 14:44:10,232 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:44:11,885 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:44:31,245 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-07 14:45:00,934 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:45:02,587 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:49:03,427 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:49:04,743 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:51:25,144 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:51:26,493 - Algorithm Manager - ERROR - Error occured in pellet sizer: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+.
+2026-08-07 14:51:26,704 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:56:14,181 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:56:15,504 - Algorithm Manager - ERROR - Error occured in pellet sizer: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+.
+2026-08-07 14:56:15,745 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 14:57:59,625 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 14:58:01,017 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 15:00:07,421 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 15:00:09,654 - Algorithm Manager - INFO - Finished a state.
+2026-08-07 15:04:15,917 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-07 15:04:17,592 - Algorithm Manager - INFO - Finished a state.
+2026-08-11 15:36:04,380 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-11 15:49:38,003 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-11 15:49:44,702 - Algorithm Manager - INFO - Finished a state.
+2026-08-11 16:04:00,525 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-11 16:04:05,804 - Algorithm Manager - ERROR - Error occured in pellet sizer: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+.
+2026-08-11 16:04:06,444 - Algorithm Manager - INFO - Finished a state.
+2026-08-11 16:17:45,333 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-11 16:17:50,199 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 13:42:09,253 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-21 13:43:52,743 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 13:43:54,870 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 13:59:01,393 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 13:59:06,185 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 14:03:58,762 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 14:04:00,132 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 14:04:19,970 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 14:04:20,609 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 14:05:13,302 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 14:05:15,755 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 14:06:26,618 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 14:06:28,205 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 14:06:46,258 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 14:06:46,903 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 14:07:20,669 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 14:07:21,189 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 14:07:40,006 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 14:07:40,733 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 14:07:49,402 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 14:07:50,476 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 14:08:09,276 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-21 14:08:50,223 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 14:08:50,930 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 14:08:59,328 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 14:09:00,033 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 14:09:11,006 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 14:09:11,914 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 14:09:24,617 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 14:09:36,916 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-08-21 14:10:00,788 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 14:10:01,513 - Algorithm Manager - INFO - Finished a state.
+2026-08-21 14:22:50,604 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-08-21 14:22:52,156 - Algorithm Manager - INFO - Finished a state.
