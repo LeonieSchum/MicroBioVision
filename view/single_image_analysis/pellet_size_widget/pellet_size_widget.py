@@ -425,7 +425,7 @@ class PelletSizeWidghet(QTabWidget):
         instance = MainWindow.get_instance()
         
         file_paths, _ = QFileDialog.getOpenFileNames(instance, "Open File", "", 
-                                             "Images (*.png *.jpg *.jpeg *.bmp *.gif *.tiff)")
+                                             "Images (*.png *.jpg *.jpeg *.bmp *.gif *.tiff *.webp)")
         
         for file_path in file_paths:
             if os.path.exists(file_path):

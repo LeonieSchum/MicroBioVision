@@ -7,6 +7,8 @@ from model.utils.SQL.sql_manager import SQLManager
 from operator_mod.eventbus.event_handler import EventManager
 from operator_mod.in_mem_storage.in_memory_data import InMemoryData
 
+from controller.algorithms.pellet_sorter.pellet_sorter_gui import PelletSorterApp
+
 class MenuBar(QMenuBar):
 
     def __init__(self):
@@ -33,6 +35,10 @@ class MenuBar(QMenuBar):
         # The single image analysis tool
         self.single_image_analysis = QAction("Image Analysis", self)
         self.single_image_analysis.triggered.connect(self.single_image_analysis_action)
+
+        self.pellet_analysis = QAction("Image Sorter for Pellet Analysis", self)
+        self.pellet_analysis.triggered.connect(self.pellet_analysis_action)
+        self.menuProject.addAction(self.pellet_analysis)
 
 
         self.menuProject.addAction(self.single_image_analysis)
@@ -76,6 +82,23 @@ class MenuBar(QMenuBar):
         
         main_inst.middle_layout.mdi_area.addSubWindow(subwindow)
         
+        subwindow.show()
+
+    def pellet_analysis_action(self):
+        
+        from view.main.mainframe import MainWindow
+        
+        main_inst = MainWindow.get_instance()
+
+        pellet_form = PelletSorterApp()
+        
+        subwindow = QMdiSubWindow()
+        subwindow.setWidget(pellet_form)
+        subwindow.setWindowTitle("Image Sorter for Pellet Analysis")
+        subwindow.resize(1100, 750)
+        main_inst.middle_layout.mdi_area.addSubWindow(subwindow)
+        
+        # Fenster anzeigen
         subwindow.show()
 
 
