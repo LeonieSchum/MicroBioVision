@@ -33,7 +33,7 @@ class Processor:
 
         return no_child_contours
 
-    def filter(self, conts: list, len_thresh: int = 10, area_thresh: int  = 10) -> list: # change the area threshhold here to see smaller or only larger objects, initial: 50, 1000
+    def filter(self, conts: list, len_thresh: int = 50, area_thresh: int  = 1000) -> list: # change the area threshhold here to see smaller or only larger objects
         
         filtered_cont = []
         

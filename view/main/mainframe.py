@@ -5,6 +5,7 @@ from operator_mod.eventbus.event_handler import EventManager
 
 from view.main.menubar.menubar import MenuBar
 from view.main.middle_interactable.middle_interactable import MiddleInteractable
+from controller.algorithms.pellet_sorter.pellet_sorter_gui import PelletSorterApp
 
 class MainWindow(QMainWindow):
 
@@ -64,6 +65,7 @@ class MainWindow(QMainWindow):
         # Final
         self.main_layout.addLayout(self.middle_layout)
         self.setCentralWidget(self.main_widget)
+
 
     def update_status_bar(self, message: str):
         self.status.showMessage(message, 3000)

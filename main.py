@@ -1,4 +1,3 @@
-
 from model.model import Model
 from controller.controller import Controller
 from view.start_gui import GUInterface

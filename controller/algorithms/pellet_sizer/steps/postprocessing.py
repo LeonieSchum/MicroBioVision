@@ -19,7 +19,8 @@ class PostProcessing:
             "10X": 0.90176,  # 4X/2.5
             "20X": 0.45088,  # 4X/5
             "40X": 0.22544,  # 4X/10
-            "100X": 0.090176 # 4X/25
+            "100X": 0.090176, # 4X/25
+            "Kamera": 1.0 
         }
 
         # Default magnification
