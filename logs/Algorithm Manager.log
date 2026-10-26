@@ -47,3 +47,17 @@
 2026-08-17 09:55:19,078 - Algorithm Manager - INFO - Trying to run the logic of state.
 2026-08-17 09:55:21,604 - Algorithm Manager - INFO - Finished a state.
 2026-09-24 16:15:08,625 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-10-26 14:14:19,154 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-10-26 14:14:52,516 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-10-26 14:14:52,533 - Algorithm Manager - INFO - Finished a state.
+2026-10-26 15:39:58,003 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-10-26 15:44:46,084 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-10-26 15:45:19,456 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-10-26 15:45:19,846 - Algorithm Manager - ERROR - Error on image 0: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2026-10-26 15:45:19,908 - Algorithm Manager - INFO - Finished a state.
+2026-10-26 15:46:31,113 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-10-26 15:46:31,590 - Algorithm Manager - INFO - Finished a state.
+2026-10-26 15:48:23,319 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-10-26 15:48:38,795 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-10-26 15:48:39,267 - Algorithm Manager - INFO - Finished a state.

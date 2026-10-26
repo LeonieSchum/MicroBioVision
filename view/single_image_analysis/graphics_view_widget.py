@@ -223,7 +223,7 @@ class ImageDisplaySettings(QWidget):
         # Magnitude
         magnitude_label = QLabel("Magnitude")
         self.magnitude_box = QComboBox()
-        self.magnitude_box.addItems(["2X", "4X", "10X", "20X", "40X", "100X", "Kamera"])
+        self.magnitude_box.addItems(["2X", "4X", "10X", "20X", "40X", "100X", "Kamera", "EVOS alt 2X", "EVOS alt 4X", "EVOS alt 10X", "EVOS alt 20X", "EVOS alt 40X", "EVOS alt 100X"])
 
         # Positioning the widgets
         settings_layout.addWidget(blur_label, 1, 0)

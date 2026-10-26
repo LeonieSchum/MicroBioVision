@@ -31,3 +31,12 @@
 2026-08-17 09:55:39,843 - ResourceManager - INFO - ResourceManager is closing, saving 'SaveLocations' to JSON.
 2026-08-17 09:55:39,844 - ResourceManager - INFO - 'Dirs' have been successfully saved to .json.
 2026-08-17 09:55:39,844 - ResourceManager - INFO - Resource Manager terminated.
+2026-10-26 14:15:17,085 - ResourceManager - INFO - ResourceManager is closing, saving 'SaveLocations' to JSON.
+2026-10-26 14:15:17,086 - ResourceManager - INFO - 'Dirs' have been successfully saved to .json.
+2026-10-26 14:15:17,086 - ResourceManager - INFO - Resource Manager terminated.
+2026-10-26 15:46:54,331 - ResourceManager - INFO - ResourceManager is closing, saving 'SaveLocations' to JSON.
+2026-10-26 15:46:54,332 - ResourceManager - INFO - 'Dirs' have been successfully saved to .json.
+2026-10-26 15:46:54,332 - ResourceManager - INFO - Resource Manager terminated.
+2026-10-26 15:49:00,643 - ResourceManager - INFO - ResourceManager is closing, saving 'SaveLocations' to JSON.
+2026-10-26 15:49:00,643 - ResourceManager - INFO - 'Dirs' have been successfully saved to .json.
+2026-10-26 15:49:00,643 - ResourceManager - INFO - Resource Manager terminated.
