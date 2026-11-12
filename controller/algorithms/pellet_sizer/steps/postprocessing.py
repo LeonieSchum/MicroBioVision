@@ -14,13 +14,21 @@ class PostProcessing:
         self.result = []
         # Conversion factors (pixel → micrometer)
         self.scale_factors = {
-            "2X": 4.5088,    # double of 4X
-            "4X": 2.2544,    # your base case
-            "10X": 0.90176,  # 4X/2.5
-            "20X": 0.45088,  # 4X/5
-            "40X": 0.22544,  # 4X/10
-            "100X": 0.090176, # 4X/25
-            "Kamera": 1.0 
+            # new EVOS
+            "2X": 3.0675,
+            "4X": 1.5337,
+            "10X": 0.60532,
+            "20X": 0.3130,
+            "40X": 0.15649,
+            # onlineBioVision camera
+            "Kamera": 0.925,
+            # old EVOS
+            "EVOS alt 2X": 4.5088,     # double of 4X
+            "EVOS alt 4X": 2.2544,     # base case
+            "EVOS alt 10X": 0.90176,   # 4X/2.5
+            "EVOS alt 20X": 0.45088,   # 4X/5
+            "EVOS alt 40X": 0.22544,   # 4X/10
+            "EVOS alt 100X": 0.090176, # 4X/25
         }
 
         # Default magnification
