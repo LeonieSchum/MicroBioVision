@@ -61,3 +61,442 @@
 2026-10-26 15:48:23,319 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
 2026-10-26 15:48:38,795 - Algorithm Manager - INFO - Trying to run the logic of state.
 2026-10-26 15:48:39,267 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 10:56:55,775 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-11-12 10:58:19,880 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-11-12 11:00:54,717 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:00:57,073 - Algorithm Manager - ERROR - Error on image 43: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:00:57,135 - Algorithm Manager - ERROR - Error on image 45: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:00:57,165 - Algorithm Manager - ERROR - Error on image 47: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:00:57,240 - Algorithm Manager - ERROR - Error on image 49: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:00:57,304 - Algorithm Manager - ERROR - Error on image 51: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:00:57,360 - Algorithm Manager - ERROR - Error on image 53: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:00:57,387 - Algorithm Manager - ERROR - Error on image 55: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:00:57,444 - Algorithm Manager - ERROR - Error on image 56: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:00:57,506 - Algorithm Manager - ERROR - Error on image 57: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:00:57,522 - Algorithm Manager - ERROR - Error on image 58: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:00:57,546 - Algorithm Manager - ERROR - Error on image 60: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:00:57,584 - Algorithm Manager - ERROR - Error on image 59: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:00:57,603 - Algorithm Manager - ERROR - Error on image 61: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:00:57,777 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:01:07,879 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:05:24,543 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-11-12 11:07:36,606 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:07:38,929 - Algorithm Manager - ERROR - Error on image 43: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:07:39,018 - Algorithm Manager - ERROR - Error on image 45: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:07:39,045 - Algorithm Manager - ERROR - Error on image 47: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:07:39,104 - Algorithm Manager - ERROR - Error on image 49: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:07:39,132 - Algorithm Manager - ERROR - Error on image 51: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:07:39,217 - Algorithm Manager - ERROR - Error on image 53: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:07:39,280 - Algorithm Manager - ERROR - Error on image 55: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:07:39,303 - Algorithm Manager - ERROR - Error on image 56: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:07:39,369 - Algorithm Manager - ERROR - Error on image 57: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:07:39,390 - Algorithm Manager - ERROR - Error on image 58: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:07:39,437 - Algorithm Manager - ERROR - Error on image 59: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:07:39,456 - Algorithm Manager - ERROR - Error on image 60: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:07:39,475 - Algorithm Manager - ERROR - Error on image 61: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:07:39,656 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:07:59,401 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:07:59,968 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:08:10,460 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:08:11,044 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:08:26,080 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:08:26,649 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:09:43,926 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:09:45,092 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:12:33,840 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:12:35,315 - Algorithm Manager - ERROR - Error on image 20: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:12:35,380 - Algorithm Manager - ERROR - Error on image 21: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:12:35,414 - Algorithm Manager - ERROR - Error on image 22: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:12:35,456 - Algorithm Manager - ERROR - Error on image 24: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:12:35,475 - Algorithm Manager - ERROR - Error on image 23: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:12:35,494 - Algorithm Manager - ERROR - Error on image 25: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:12:35,518 - Algorithm Manager - ERROR - Error on image 26: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:12:35,648 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:12:42,788 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:12:44,115 - Algorithm Manager - ERROR - Error on image 20: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:12:44,188 - Algorithm Manager - ERROR - Error on image 21: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:12:44,211 - Algorithm Manager - ERROR - Error on image 22: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:12:44,262 - Algorithm Manager - ERROR - Error on image 24: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:12:44,283 - Algorithm Manager - ERROR - Error on image 23: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:12:44,307 - Algorithm Manager - ERROR - Error on image 25: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:12:44,326 - Algorithm Manager - ERROR - Error on image 26: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:12:44,517 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:13:30,192 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:13:31,501 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:15:28,734 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:15:29,459 - Algorithm Manager - ERROR - Error on image 6: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:15:29,492 - Algorithm Manager - ERROR - Error on image 8: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:15:29,521 - Algorithm Manager - ERROR - Error on image 7: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:15:29,610 - Algorithm Manager - ERROR - Error on image 9: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:15:29,631 - Algorithm Manager - ERROR - Error on image 10: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:15:29,653 - Algorithm Manager - ERROR - Error on image 11: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:15:29,674 - Algorithm Manager - ERROR - Error on image 12: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:15:29,832 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:15:36,716 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:15:37,414 - Algorithm Manager - ERROR - Error on image 6: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:15:37,444 - Algorithm Manager - ERROR - Error on image 8: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:15:37,473 - Algorithm Manager - ERROR - Error on image 7: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:15:37,530 - Algorithm Manager - ERROR - Error on image 9: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:15:37,551 - Algorithm Manager - ERROR - Error on image 10: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:15:37,600 - Algorithm Manager - ERROR - Error on image 11: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:15:37,626 - Algorithm Manager - ERROR - Error on image 12: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:15:37,768 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:16:29,047 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:16:29,772 - Algorithm Manager - ERROR - Error on image 6: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:16:29,803 - Algorithm Manager - ERROR - Error on image 7: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:16:29,867 - Algorithm Manager - ERROR - Error on image 8: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:16:29,924 - Algorithm Manager - ERROR - Error on image 9: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:16:29,947 - Algorithm Manager - ERROR - Error on image 10: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:16:29,969 - Algorithm Manager - ERROR - Error on image 11: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:16:29,992 - Algorithm Manager - ERROR - Error on image 12: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:16:30,150 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:16:43,828 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:16:44,527 - Algorithm Manager - ERROR - Error on image 6: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:16:44,558 - Algorithm Manager - ERROR - Error on image 7: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:16:44,585 - Algorithm Manager - ERROR - Error on image 8: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:16:44,636 - Algorithm Manager - ERROR - Error on image 9: OpenCV(5.0.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.simd_helpers.hpp:92: error: (-15:Bad number of channels) in function '__cdecl cv::impl::`anonymous-namespace'::CvtHelper<struct cv::impl::`anonymous namespace'::Set<3,4,-1>,struct cv::impl::A0xa0d16e95::Set<1,-1,-1>,struct cv::impl::A0xa0d16e95::Set<0,2,5>,4>::CvtHelper(const class cv::_InputArray &,const class cv::_OutputArray &,int)'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2026-11-12 11:16:44,756 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:35:24,290 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-11-12 11:36:54,062 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:36:55,134 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:44:03,195 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:44:05,912 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:47:16,570 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:47:19,104 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:50:32,906 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:50:35,380 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:52:54,731 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:53:06,185 - Algorithm Manager - INFO - Algorithm Manager initialized and ready for work.
+2026-11-12 11:53:59,531 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:54:01,504 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:54:42,218 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:54:44,351 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:55:43,478 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:55:46,068 - Algorithm Manager - INFO - Finished a state.
+2026-11-12 11:56:56,008 - Algorithm Manager - INFO - Trying to run the logic of state.
+2026-11-12 11:56:59,056 - Algorithm Manager - INFO - Finished a state.

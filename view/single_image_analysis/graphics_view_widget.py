@@ -3,6 +3,21 @@ from PySide6.QtWidgets import QWidget, QHBoxLayout, QVBoxLayout, QGraphicsView, 
 from PySide6.QtCore import Qt, QSize, QTimer
 from PySide6.QtGui import QImage, QPixmap, QResizeEvent
 import cv2
+import numpy as np
+
+
+def _to_rgb8(img):
+    """Converts a 1/3/4 channel, 8/16 bit OpenCV image into a contiguous 8-bit RGB array."""
+    if img.dtype != np.uint8:
+        img = (img / 16).clip(0, 255).astype(np.uint8) if img.dtype == np.uint16 else cv2.normalize(img, None, 0, 255, cv2.NORM_MINMAX).astype(np.uint8)
+    if img.ndim == 2:
+        return cv2.cvtColor(img, cv2.COLOR_GRAY2RGB)
+    if img.shape[2] == 4:
+        return cv2.cvtColor(img, cv2.COLOR_BGRA2RGB)
+    if img.shape[2] == 1:
+        return cv2.cvtColor(img[:, :, 0], cv2.COLOR_GRAY2RGB)
+    return cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+
 
 class ImageDisplay(QWidget):
     
@@ -48,7 +63,7 @@ class ImageDisplay(QWidget):
                 self.img = (self.img / 16).astype('uint8')
                 
             # Convert the image from BGR (OpenCV) to RGB (Qt)
-            image = cv2.cvtColor(self.img, cv2.COLOR_BGR2RGB)
+            image = _to_rgb8(self.img)
 
             # Making the image accessible for Qt
             height, width, _ = image.shape
@@ -87,7 +102,7 @@ class ImageDisplay(QWidget):
         if self.img.dtype == 'uint16':
             self.img = (self.img / 16).astype('uint8')
 
-        image_rgb = cv2.cvtColor(self.img, cv2.COLOR_BGR2RGB)
+        image_rgb = _to_rgb8(self.img)
         height, width, _ = image_rgb.shape
         bytes_per_line = 3 * width
         q_image = QImage(image_rgb.data, width, height, bytes_per_line, QImage.Format.Format_RGB888)
@@ -170,7 +185,7 @@ class ImageDisplaySettings(QWidget):
                 self.img = (self.img / 16).astype('uint8')
                 
             # Convert the image from BGR (OpenCV) to RGB (Qt)
-            image = cv2.cvtColor(self.img, cv2.COLOR_BGR2RGB)
+            image = _to_rgb8(self.img)
 
             # Making the image accessible for Qt
             height, width, _ = image.shape
@@ -277,7 +292,7 @@ class ImageDisplaySettings(QWidget):
         if self.img.dtype == 'uint16':
             self.img = (self.img / 16).astype('uint8')
 
-        image_rgb = cv2.cvtColor(self.img, cv2.COLOR_BGR2RGB)
+        image_rgb = _to_rgb8(self.img)
         height, width, _ = image_rgb.shape
         bytes_per_line = 3 * width
         q_image = QImage(image_rgb.data, width, height, bytes_per_line, QImage.Format.Format_RGB888)

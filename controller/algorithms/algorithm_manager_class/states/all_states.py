@@ -50,8 +50,9 @@ class PelletSizerSingleState(State):
                     reference._progressbar_update(progress)
 
             except Exception as e:
-                self.logger.error(f"Error occurred in pellet sizer: {e}.")
+                self.logger.error(f"Error occurred in pellet sizer: {e}.", exc_info=True)
 
+        # Always hand over the results (failed images are None) so the GUI resets and reports
         self.data.add_data(self.data.Keys.PELLET_SIZER_RESULT, results, self.data.Namespaces.DEFAULT)
         reference.pellet_sizing_done.emit()
 

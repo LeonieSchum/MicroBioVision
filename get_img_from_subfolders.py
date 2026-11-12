@@ -11,7 +11,7 @@ import shutil
 from pathlib import Path
 
 # ----------------------------- SETTINGS -----------------------------
-FOLDER = r"C:\Users\leoschum\Nextcloud\02_Lab\02_EVOS\260826_BOL1"   # <- main folder that contains the subfolders
+FOLDER = r"C:\Users\leoschum\Nextcloud\02_Lab\02_EVOS\260825_BOS1"   # <- main folder that contains the subfolders
 DRY_RUN = False                       # True = only print what would happen; set to False to really move
 # --------------------------------------------------------------------
 

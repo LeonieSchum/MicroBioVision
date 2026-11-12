@@ -32,7 +32,7 @@ class State(ABC):
             self.logger.info("Trying to run the logic of state.")
             self.run_logic()
         except Exception as e:
-            self.logger.warning(f"Excpetion in Algorithm Manager: {e}.")
+            self.logger.error(f"Exception in Algorithm Manager: {e}.", exc_info=True)
         finally:
             self.logger.info("Finished a state.")
  

@@ -77,6 +77,7 @@ class PelletSizeWidghet(QTabWidget):
         analyze_layout = QVBoxLayout()
         
         startbutton = QPushButton("Analyze")
+        self.startbutton = startbutton
         startbutton.clicked.connect(self.analyze_button_action)
         
         self.progressbar = QProgressBar()
@@ -142,8 +143,13 @@ class PelletSizeWidghet(QTabWidget):
         
         self.data.add_data(self.data.Keys.PELLET_SIZER_IMAGES, filepaths, self.data.Namespaces.DEFAULT)
         self.data.add_data(self.data.Keys.PELLET_SIZER_IMAGE_SETTINGS, filesettings, self.data.Namespaces.DEFAULT)
+        if not filepaths:
+            return
+
+        # Block further clicks until display_results re-enables the button
+        self.startbutton.setEnabled(False)
         self.algman.add_task(self.algman.States.PELLET_SIZER_SINGLE_STATE, 0)
-    
+
     ### Result logic
     def display_results(self) -> None:
         """Displays results after analyzing. Called from the WaiterThread by a signal.
@@ -153,26 +159,49 @@ class PelletSizeWidghet(QTabWidget):
         
         # Fetching results
         results = self.data.get_data(self.data.Keys.PELLET_SIZER_RESULT, self.data.Namespaces.DEFAULT)
-        
-        images = []
-        data = []
-        
-        for result in results:
-            images.append(result["Image"])
-            data.append(result["Data"])
-        
-        # The images come back in the order of the filepaths given
-        filepaths = self.data.get_data(self.data.Keys.PELLET_SIZER_IMAGES, self.data.Namespaces.DEFAULT)
-        
-        # Creating two widget to fit into QTabWidget
-        resultimage_widget = self._result_image_widget(images, filepaths)
-        result_table = self._result_table(data, filepaths)
-        
-        self.addTab(resultimage_widget, "Result Images")
-        self.addTab(result_table, "Result Values")
-        
-        ### Deleting the references to the images of the result to clean up the internal data
-        self.data.delete_data(self.data.Keys.PELLET_SIZER_RESULT, self.data.Namespaces.DEFAULT)
+
+        try:
+            # The images come back in the order of the filepaths given
+            all_filepaths = self.data.get_data(self.data.Keys.PELLET_SIZER_IMAGES, self.data.Namespaces.DEFAULT) or []
+
+            images = []
+            data = []
+            filepaths = []
+            failed = []
+
+            # Failed images are None in the results, they are skipped and reported
+            for i, result in enumerate(results or []):
+                name = os.path.basename(all_filepaths[i]) if i < len(all_filepaths) else f"image {i}"
+                if result is None:
+                    failed.append(name)
+                    continue
+                images.append(result["Image"])
+                data.append(result["Data"])
+                filepaths.append(all_filepaths[i] if i < len(all_filepaths) else name)
+
+            if failed:
+                self.logger.error(f"Analysis failed for: {', '.join(failed)}")
+                from view.main.mainframe import MainWindow
+                QMessageBox.warning(MainWindow.get_instance(), "Analysis failed for some images",
+                                    "The following images could not be analyzed (see log for details):\n\n" + "\n".join(failed))
+
+            if not images:
+                return
+
+            # Creating two widget to fit into QTabWidget
+            resultimage_widget = self._result_image_widget(images, filepaths)
+            result_table = self._result_table(data, filepaths)
+
+            self.addTab(resultimage_widget, "Result Images")
+            self.addTab(result_table, "Result Values")
+
+        except Exception as e:
+            self.logger.error(f"Error while displaying results: {e}", exc_info=True)
+
+        finally:
+            self.startbutton.setEnabled(True)
+            ### Deleting the references to the images of the result to clean up the internal data
+            self.data.delete_data(self.data.Keys.PELLET_SIZER_RESULT, self.data.Namespaces.DEFAULT)
         
     def _result_image_widget(self, images: list, filepaths: list) -> QWidget:
         try:
